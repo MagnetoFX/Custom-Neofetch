@@ -16,8 +16,8 @@ Features
   -System Uptime
 
 Preview
+![Neofetch Preview]([./neofetch-preview.png](https://i.imgur.com/opX65IB.png)
 
-https://i.imgur.com/opX65IB.png
 
 Installation
 Follow these steps to install and use this configuration:
