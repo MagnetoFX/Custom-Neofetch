@@ -2,19 +2,21 @@ Custom Neofetch Configuration
 This repository contains a custom configuration for Neofetch, tailored to display system information alongside an ASCII Tux Penguin logo. This configuration emphasizes aesthetics and clear organization of system specs.
 
 Features
-A clean, organized layout for system information.
-Custom ASCII Tux Penguin logo.
-Displays:
-Distro
-Kernel
-Installed Packages
-Hostname
-CPU
-GPU
-Screen Resolution
-Memory Usage
-System Uptime
+* A clean, organized layout for system information.
+* Custom ASCII Tux Penguin logo.
+* Displays:
+   - Distro
+   -Kernel
+   -Installed Packages
+   -Hostname
+   -CPU
+   -GPU
+   -Screen Resolution
+   -Memory Usage
+  -System Uptime
+
 Preview
+
 
 Installation
 Follow these steps to install and use this configuration:
