@@ -16,7 +16,7 @@ Features
   -System Uptime
 
 Preview
-
+https://i.imgur.com/opX65IB.png
 
 Installation
 Follow these steps to install and use this configuration:
