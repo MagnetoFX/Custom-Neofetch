@@ -16,7 +16,8 @@ Features
   -System Uptime
 
 Preview
-![Neofetch Preview]([[./neofetch-preview.png](https://github.com/MagnetoFX/Custom-Neofetch/blob/ec2d8f77d309db523cd95eea87eeb8ea27915182/Neofetch%20Preview.png))
+![Neofetch Preview](https://github.com/MagnetoFX/Custom-Neofetch/blob/ec2d8f77d309db523cd95eea87eeb8ea27915182/Neofetch%20Preview.png)
+
 
 
 Installation
