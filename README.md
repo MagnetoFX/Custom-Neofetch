@@ -32,7 +32,6 @@ sudo dnf install neofetch
 # Arch Linux
 sudo pacman -S neofetch
 
-# macOS (via Homebrew)
-brew install neofetch
-
-
+Then go to 
+~/.config/neofetch/config.conf
+and replace the existing codes with config.conf codes from my repo.
